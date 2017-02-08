@@ -1,0 +1,17 @@
+table#output{
+    margin: auto 100px;
+}
+
+table#output,table#output tr,table#output td{
+
+    border: black solid 1px;
+    border-collapse: collapse;
+}
+table#output thead{
+    background-color: #52A5DD;
+    color: white;
+}
+
+table#output tfoot{
+    font-weight: bold;
+}
